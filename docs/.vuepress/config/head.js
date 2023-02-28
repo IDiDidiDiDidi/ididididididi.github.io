@@ -6,7 +6,7 @@ module.exports = [
     'meta',
     {
       name: 'keywords',
-      content: '二丫讲梵,golang,vue,go-web,go-admin,go-ldap-admin',
+      content: '刘頔的个人博客,博客,济宁Java,济宁程序员,济宁Vue,济宁SQL',
     },
   ],
   // ['meta', { name: 'baidu-site-verification', content: 'code-LTKHwOecxI' }], // 百度统计的站长验证
