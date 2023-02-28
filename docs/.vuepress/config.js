@@ -6,7 +6,7 @@ module.exports = {
   theme: 'vdoing', // 使用npm包主题
   title: "刘頔的个人知识库",
   description: '刘頔的个人知识库',
-  base: '/ididididididi/', // 格式：'/<仓库名>/'， 默认'/'
+  base: '/ididididididi.github.io/', // 格式：'/<仓库名>/'， 默认'/'
   markdown: {
     lineNumbers: true, // 代码行号
   },
